@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HenrietteLehtonen
+- 👋 Hi, I’m @Henriette Lehtonen / Hette / Hetu / Henski
 - 👀 I’m interested in front-end development, 3D, XR
 - 🌱 I’m currently learning web development
 - ⚡ Fun fact: Love to grow potatoes in a bucket 
